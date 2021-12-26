@@ -54,10 +54,10 @@ init_files() {
   else
     ## Change the files of `.github`
 
-    mv .github/workflows/$ACTIONS_WORKFLOW.hook .
+    mv .github/workflows/$ACTIONS_WORKFLOW .
     rm -rf .github
     mkdir -p .github/workflows
-    mv ./${ACTIONS_WORKFLOW}.hook .github/workflows/${ACTIONS_WORKFLOW}
+    mv ./${ACTIONS_WORKFLOW} .github/workflows/${ACTIONS_WORKFLOW}
 
     ## Ensure the gh-actions trigger branch
 
