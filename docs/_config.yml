@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: Seunghyeon Kang                          # the main title
 
-tagline: Unity   # it will display as the sub-title
+tagline: Unity, Swift   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   FinalEpisode 포트폴리오
