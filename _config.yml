@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: Seunghyeon Kang                          # the main title
 
-tagline: My Portfolio   # it will display as the sub-title
+tagline: Portfolio   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Portpolio
