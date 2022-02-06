@@ -6,7 +6,7 @@ tags: [unity]
 
 # Final Episode
 
-모바일 RPG 게임
+용병 수집 및 육성을 통해 스테이지를 공략하는 방식의 모바일 RPG 게임입니다.
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)  [![Xcode](https://img.shields.io/badge/Xcode-11.0-blue)](https://developer.apple.com/xcode/)  [![Platform](https://img.shields.io/badge/iOS-12-green)]()  [![GarageBand](https://img.shields.io/badge/Sound-GarageBand-orange)]()  
 
