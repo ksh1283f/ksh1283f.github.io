@@ -5,16 +5,20 @@ tags: [iOS]
 ---
 
 # TodaysWorld
+***
 
-[![Xcode](https://img.shields.io/badge/Xcode-11.0-blue)](https://developer.apple.com/xcode/) ![Platform](https://img.shields.io/badge/iOS-13.2-green)  
-
+<p align="left">
+    <img src="https://img.shields.io/badge/Xcode-11.0-blue">
+    <img src="https://img.shields.io/badge/iOS-13.2-green">
+</p>
 
 >TodaysWorld is a simple news app. you can see the top headline of your country or other countries with options
-<p align="center">
+<p align="left">
     <img src="/assets/TodaysWorld/Imgs/Example.gif" width = "200">
 </p>
 
 ## Prerequisite
+***
 1. NEWS API
     - Go to News API [NewsApi link](https://newsapi.org/)
     - If you don't have your account, please sign up and get api key.
@@ -27,9 +31,11 @@ tags: [iOS]
    - Implement Firebase Authentication [Firebase Auth docs](https://firebase.google.com/docs/auth/ios/google-signin?authuser=0)
 
 ## Storyboard
+***
 ![Storyboard](/assets/TodaysWorld/Imgs/storyboard.png)
 
 ## Notice
+***
 > Your top headlines article would be selected according to your device's first language. Therefore if the article's language is not your country's, please check <b>Settings -> Language</b>
 
 
